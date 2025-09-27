@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "ID": "PROD3",
+      "Product_Name": "Desktop Computer",
+      "Category": "Electronics",
+      "Unit_Price": 1279.99,
+      "Supplier_ID": "SUP5"
+    },
+    {
+      "ID": "PROD5",
+      "Product_Name": "Tablet",
+      "Category": "Electronics",
+      "Unit_Price": 681.99,
+      "Supplier_ID": "SUP6"
+    },
+    {
+      "ID": "PROD10",
+      "Product_Name": "Smartwatch",
+      "Category": "Electronics",
+      "Unit_Price": 300.99,
+      "Supplier_ID": "SUP5"
+    },
+    {
+      "ID": "PROD27",
+      "Product_Name": "File Cabinet",
+      "Category": "Office Supplies",
+      "Unit_Price": 184.99,
+      "Supplier_ID": "SUP7"
+    },
+    {
+      "ID": "PROD25",
+      "Product_Name": "Whiteboard",
+      "Category": "Office Supplies",
+      "Unit_Price": 56.95,
+      "Supplier_ID": "SUP3"
+    },
+    {
+      "ID": "PROD13",
+      "Product_Name": "Wireless Keyboard",
+      "Category": "Accessories",
+      "Unit_Price": 79.99,
+      "Supplier_ID": "SUP9"
+    },
+    {
+      "ID": "PROD14",
+      "Product_Name": "Mechanical Keyboard",
+      "Category": "Accessories",
+      "Unit_Price": 157.95,
+      "Supplier_ID": "SUP2"
+    },
+    {
+      "ID": "PROD16",
+      "Product_Name": "Gaming Mouse",
+      "Category": "Accessories",
+      "Unit_Price": 100.95,
+      "Supplier_ID": "SUP2"
+    },
+    {
+      "ID": "PROD32",
+      "Product_Name": "Bookshelf",
+      "Category": "Furniture",
+      "Unit_Price": 157.95,
+      "Supplier_ID": "SUP1"
+    },
+    {
+      "ID": "PROD35",
+      "Product_Name": "Laptop Backpack",
+      "Category": "Apparel",
+      "Unit_Price": 66.95,
+      "Supplier_ID": "SUP8"
+    }
+  ]
+}

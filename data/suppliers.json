@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "ID": "SUP1",
+      "Supplier_Name": "Martin, Jackson and Jackson",
+      "Location": "France",
+      "Specialization": "Furniture"
+    },
+    {
+      "ID": "SUP2",
+      "Supplier_Name": "Sullivan, Willis and Clayton",
+      "Location": "Poland",
+      "Specialization": "Accessories"
+    },
+    {
+      "ID": "SUP3",
+      "Supplier_Name": "Martinez-Chang",
+      "Location": "Spain",
+      "Specialization": "Office Supplies"
+    },
+    {
+      "ID": "SUP4",
+      "Supplier_Name": "Houston, Ward and Brooks",
+      "Location": "Italy",
+      "Specialization": "Office Supplies"
+    },
+    {
+      "ID": "SUP5",
+      "Supplier_Name": "Guzman-Taylor",
+      "Location": "Italy",
+      "Specialization": "Electronics"
+    },
+    {
+      "ID": "SUP6",
+      "Supplier_Name": "Barton Group",
+      "Location": "Spain",
+      "Specialization": "Electronics"
+    },
+    {
+      "ID": "SUP7",
+      "Supplier_Name": "Vazquez Group",
+      "Location": "Germany",
+      "Specialization": "Office Supplies"
+    },
+    {
+      "ID": "SUP8",
+      "Supplier_Name": "Parker Inc",
+      "Location": "Netherlands",
+      "Specialization": "Apparel"
+    },
+    {
+      "ID": "SUP9",
+      "Supplier_Name": "Rodriguez-Perez",
+      "Location": "Germany",
+      "Specialization": "Accessories"
+    },
+    {
+      "ID": "SUP10",
+      "Supplier_Name": "Schneider-Norman",
+      "Location": "Germany",
+      "Specialization": "Office Supplies"
+    }
+  ]
+}
